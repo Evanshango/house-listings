@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "329978477330",
+    "firebase_url": "https://multiimageupload-ce7ce.firebaseio.com",
+    "project_id": "multiimageupload-ce7ce",
+    "storage_bucket": "multiimageupload-ce7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329978477330:android:d7da8ebb15679ec3a391cb",
+        "android_client_info": {
+          "package_name": "com.evans.multiimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329978477330-4f52r7suahhgl69eiamb6bltlfsk0gm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evans.multiimageupload",
+            "certificate_hash": "4fe130f4b0f984d6fd948fd6deae7ad6300103df"
+          }
+        },
+        {
+          "client_id": "329978477330-8vvn200kfnfuhhnvmdtt9n253l4bakl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JVJmfrZbfkZOXXDtnzJu94sUpFE3YQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329978477330-8vvn200kfnfuhhnvmdtt9n253l4bakl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
